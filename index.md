@@ -1,6 +1,4 @@
-Apologies!
-
-EOS Charge is currently out of order, but enjoy these screenshots and this video: https://www.youtube.com/watch?v=MS9BkH6OAXI
+Apologies! EOS Charge is currently out of order, but enjoy these screenshots and [this video](https://www.youtube.com/watch?v=MS9BkH6OAXI).
 
 ![Image of AccountView](/img/eos_charge_account.png)
 
