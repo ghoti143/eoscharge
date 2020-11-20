@@ -1,6 +1,6 @@
 # EOS Charge
 
-Apologies! EOS Charge is currently out of order, but enjoy the below screenshots and demo video.
+Apologies! EOS Charge is currently out of order, but enjoy the below screenshots and demo video.  Or [view the code](https://github.com/ghoti143/eoscharge).
 
 ## Demo
 
